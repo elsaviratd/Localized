@@ -1,0 +1,180 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld days left" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day left"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld days left"
+                }
+              }
+            }
+          }
+        },
+        "id" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld hari tersisa"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld item left" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld unit tersisa"
+          }
+        }
+      }
+    },
+    "20% off" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diskon 20%"
+          }
+        }
+      }
+    },
+    "Account" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akun"
+          }
+        }
+      }
+    },
+    "Add to Bag" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tambah keranjang"
+          }
+        }
+      }
+    },
+    "Category" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategori"
+          }
+        }
+      }
+    },
+    "Credit Card Offers" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Promo Kartu Kredit"
+          }
+        }
+      }
+    },
+    "Lebaran Sale" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Promo Lebaran"
+          }
+        }
+      }
+    },
+    "Lebaran Sale!" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Promo Lebaran!"
+          }
+        }
+      }
+    },
+    "Offers" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Promo"
+          }
+        }
+      }
+    },
+    "See All" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lihat Semua"
+          }
+        }
+      }
+    },
+    "Size" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukuran"
+          }
+        }
+      }
+    },
+    "Special Coupons For You" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kupon Spesial Buat Kamu"
+          }
+        }
+      }
+    },
+    "What is your size?" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berapa ukuranmu?"
+          }
+        }
+      }
+    },
+    "Wishlist" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wishlist"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
